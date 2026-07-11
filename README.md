@@ -18,6 +18,10 @@
 
 ---
 
+> Download APK: [Pomodoro App](https://github.com/SudegoraAnkit/PomodoroApp/blob/main/released_apk/pomodoro.apk)
+
+---
+
 ## ✨ Key Features
 
 - ⏱️ **Advanced Cycle Management:** Dynamic countdown states configured for `Focus (25m)`, `Short Break (5m)`, and `Long Break (15m)` intervals with automatic fallback transitions.
