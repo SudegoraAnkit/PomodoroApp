@@ -1,0 +1,6 @@
+{
+  "name": "Tomato Pomodoro",
+  "description": "A modern, highly polished, and fully offline Pomodoro timer and task tracker with an advanced statistics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
