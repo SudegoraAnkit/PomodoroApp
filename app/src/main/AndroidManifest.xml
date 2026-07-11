@@ -3,9 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
 
     <application
-        android:name=".PomodoroApplication"
+        android:name="com.myapp.PomodoroApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -15,7 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".MainActivity"
+            android:name="com.myapp.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.MyApplication">
